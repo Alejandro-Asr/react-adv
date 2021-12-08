@@ -1,5 +1,5 @@
 import { BrowserRouter, NavLink } from "react-router-dom";
-import { Routes, Route, Link, Navigate } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 
 import logo from '../logo.svg'
 
